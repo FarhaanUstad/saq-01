@@ -70,7 +70,7 @@ const Contact = () => {
                 <Mail className="h-6 w-6 text-blue-500 mt-1" />
                 <div className="ml-4">
                   <h3 className="font-semibold">Email</h3>
-                  <p className="text-gray-600">info@mizat.com.sa</p>
+                  <p className="text-gray-600">info@saq.com.sa</p>
                 </div>
               </div>
               <div className="flex items-start">
