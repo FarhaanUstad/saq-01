@@ -16,7 +16,7 @@ export default function Gallery() {
           loop
           centeredSlides
         >
-          {Array.from({ length: 17 }).map((_, i) => (
+          {Array.from({ length: 21 }).map((_, i) => (
             <SwiperSlide key={i} style={{ width: 'auto' }} className="pb-10">
               <img src={`/assets/photo (${i+1}).jpg`} alt={`${i+1}-image`} className="h-96 max-sm:h-64 rounded-lg" />
             </SwiperSlide>
