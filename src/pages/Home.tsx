@@ -11,10 +11,10 @@ const Home = () => {
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-black/60 z-10"></div>
           <img
-            src="https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&q=80"
-            alt="Construction site"
-            className="w-full h-full object-cover"
-          />
+  src="public/assets/photo-collage.png.png" // Replace with your image file path
+  alt="Construction site"
+  className="w-full h-full object-cover"
+/>
         </div>
         <div className="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
